@@ -39,27 +39,19 @@ export default function Component(): JSX.Element {
 						<MoTD/>
 						<br />
 						<p>
-							<a href="//github.com/SHSGames/shsgames.github.io/issues" target="_blank">Issue Tracker</a>
+					
 						</p>
 					</Col>
 					<Col xl={4}>
-						<a href="//github.com/SHSGames/shsgames.github.io" style={{ marginTop: 16, display: "inline-block", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
-							<img src={"https://github-readme-stats.vercel.app/api/pin/?username=SHSGames&repo=shsgames.github.io&theme=radical&bg_color=22272e&border_color=373e47&title_color=58a6ff&icon_color=adbac7&text_color=adbac7"} alt="" className="raised-3"/>
-						</a>
-					</Col>
-					<Col xl={4}>
-						<div className="raised-3" style={{ display: "inline-block", margin: "16px 0", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
-							<DiscordInvite guild="584437072618717209"/>
-						</div>
-					</Col>
+						
 				</Row>
 			</Container>
 			<FooterCopyright>
 				<div style={{ paddingLeft: 8 }}>
 					<div style={{ display: "inline-flex", alignItems: "start", flexDirection: "column" }}>
-						<span>Copyright © 2019-{(new Date).getFullYear()} • All Rights Reserved</span>
+						<span>Gitlock 2021-{(new Date).getFullYear()}</span>
 						<div>
-							<a href="//joshmerlino.github.io" className="link">Josh Merlino</a> • <a href="//th3skeleton.github.io/pshel/" className="link">Parker Sheldon</a>
+							<a href="//github.com/gitlocked/." className="link">Gitlocked</a> • <a href="" className="link"></a>
 						</div>
 					</div>
 					<div style={{ alignItems: "start", flexDirection: "column", marginLeft: "auto", display: "table", marginTop: "-26px", transform: "translateY(-4px)" }}>
